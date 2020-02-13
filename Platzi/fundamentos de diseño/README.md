@@ -53,6 +53,4 @@ Pintos para crear un buen concepto :
 
 ## Diseño universal
 El diseño debe ser universal  
-
-![GitHub Logo](/img/fogata.png)
-
+![fogata](./img/fogata.png)
