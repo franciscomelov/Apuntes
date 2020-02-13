@@ -51,4 +51,7 @@ Pintos para crear un buen concepto :
 - Definir la comunicacion visual : La forma en que comunicaremos el mensaje, que objetos ocuparemos
 
 
+## Diseño universal
+El diseño debe ser universal  
+[logo]:(./img/fogata.png "fogata")
 
