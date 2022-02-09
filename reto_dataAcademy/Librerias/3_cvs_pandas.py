@@ -5,3 +5,4 @@ df = pd.read_csv("./studentsperformance.csv")
 
 anime_df = pd.read_csv("./data/dataanime.csv")
 print(anime_df.head())
+
