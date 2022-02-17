@@ -1,0 +1,7 @@
+mostrando matematicamente 
+
+{x1, x2, ..., xn} = dataset
+
+Media = X̅ = 1/n (x1 + x2, ... + n) = 1/N = promedio
+
+mediana = median(x)
