@@ -41,3 +41,16 @@ lista
 # ["a", "c", 1]
 
 
+# RECORRIENDO LA LISTA
+
+for elemento in objetos:
+    print(elemento)
+
+# a
+# c
+# 1
+
+elemento[::-1]
+# invierte la lista
+
+
